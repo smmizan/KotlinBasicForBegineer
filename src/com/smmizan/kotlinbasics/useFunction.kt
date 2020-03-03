@@ -1,10 +1,10 @@
 package com.smmizan.kotlinbasics
 
 fun main (args : Array<String>){
-//    myDemo()
+    myDemo()
 
-//    var result = secondFuntion(10.5,10.5)
-//    println("your input value : 10.5+10.5 = $result")
+    var result = secondFuntion(10.5,10.5)
+    println("your input value : 10.5+10.5 = $result")
 
     functionTwo()
     functionTwo(20)
