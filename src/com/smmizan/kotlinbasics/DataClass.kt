@@ -24,6 +24,11 @@ fun main(args:Array<String>){
 
     println(student3.equals(student4))
 
+    // data class access using component properties
+
+    println("*****access component properties*****")
+    println(" Name : ${student.component1()} , ID : ${student.component2()}")
+
 
 }
 
