@@ -16,6 +16,15 @@ fun main(args:Array<String>){
     println("Student Name : ${student.Name} , Student ID : ${student.ID}")
     println("Student Name : ${student2.Name} ,Student ID : ${student2.ID}")
 
+
+    // data class equal function
+
+    val student3 = Student("Mizan",206)
+    val student4 = Student("Mizan",206)
+
+    println(student3.equals(student4))
+
+
 }
 
 data class Student(val Name:String,val ID:Int){}
