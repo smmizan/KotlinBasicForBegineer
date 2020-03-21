@@ -11,7 +11,7 @@ fun main(args:Array<String>){
             println("i = $i")
     }
 
-    println("finish my breaking loop")
+    println("finished my break loop")
 
 
     var number1:String
