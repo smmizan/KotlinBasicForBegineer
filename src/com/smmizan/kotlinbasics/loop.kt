@@ -3,7 +3,7 @@ package com.smmizan.kotlinbasics
 fun main(args : Array<String>)
 {
 
-    /*for loop in kotlin*/
+    /*for loop example in kotlin*/
 
     var list = arrayOf("Dhaka","Jamalpur","Sylhet","Rangpur","Comilla","Bogura")
     for (a in list)
