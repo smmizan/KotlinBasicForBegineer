@@ -2,6 +2,9 @@ package com.smmizan.kotlinbasics
 
 fun main (args:Array<String>)
 {
+
+//while & do while example
+
 //    var count =0
 //
 //    while(count<=10)
