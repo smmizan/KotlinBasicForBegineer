@@ -12,7 +12,7 @@ class BioData{
 
     val name:String = "SM Mizan"
     val address:String = "Dhaka,Bangladesh"
-    val id:Int = 1234
+    val id:Int = 101
 
     fun printBio(){
         println("Name : $name , address : $address , id : $id")
