@@ -4,6 +4,8 @@ fun main(miz:Array<String>)
 {
 
 
+//labeled break
+
 
 
     for (i in 1..10){
