@@ -2,6 +2,8 @@ package com.smmizan.kotlinbasics
 
 fun main(args:Array<String>){
 
+	// secondary constructor
+
     val employee = Employee(226,"Rakib","Dhaka")
     employee.deptWiseEmployee()
 
