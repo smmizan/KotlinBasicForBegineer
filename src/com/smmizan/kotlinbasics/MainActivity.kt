@@ -10,6 +10,7 @@ fun main(args: Array<String>){
 
 
    /* if else statement*/
+   
 
 //    val a :Int = 20
 //    val b:Int = 20
@@ -23,6 +24,7 @@ fun main(args: Array<String>){
 
 
    /* when operation*/
+   
 
 
 //    val a :Int = 12
